@@ -1,4 +1,4 @@
-# flutflix
+# Cinemate
 
 A new Flutter project.
 
